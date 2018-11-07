@@ -1,0 +1,12 @@
+Unesite m i n > 3 2
+Upisite 3 x 2 clanova matrice > 
+
+1 2
+4 5
+9 10
+
+Rezultat:
+    1.00     1.41 
+    2.00     2.24 
+    3.00     3.16 
+

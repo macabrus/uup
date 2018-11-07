@@ -10,7 +10,7 @@ int main(){
    int arr[a], i;
    printf("Upisite cijele brojeve (%d) > ",a);
    for (i = 0; i < a; i++){
-      scanf("%d ",&arr[i]);
+      scanf("%d",&arr[i]);
    }
    printf("\nRecip: ");
    for (i = a-1; i >= 0; i--){
